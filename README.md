@@ -1,5 +1,5 @@
 # jOOQ Quickstart
-
+- https://www.youtube.com/watch?v=UuNrcBgRGXw&t=855s
 This project introduces [jOOQ](https://jooq.org).
 
 A PostgreSQL database with pre-installed Sakila schema and example data is used.
